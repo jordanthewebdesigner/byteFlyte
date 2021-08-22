@@ -113,6 +113,7 @@ var sprites = {};
 var byteBG = new Image(); 
 byteBG.src = "./byteFlyteBG.jpg"; 
 
+
 // setup canvas
 // var canvasBG = document.getElementById("gameBG");
 // canvasBG.width = gameInfo.w;

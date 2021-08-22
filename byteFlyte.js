@@ -111,7 +111,7 @@ var stopMe = function(){
 var sprites = {};
 // create an image element 
 var byteBG = new Image(); 
-byteBG.src = "../images/byteFlyteBG.jpg"; 
+byteBG.src = "./byteFlyteBG.jpg"; 
 
 // setup canvas
 // var canvasBG = document.getElementById("gameBG");

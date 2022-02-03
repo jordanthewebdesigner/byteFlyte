@@ -1,9 +1,9 @@
 var gameInfo = {
-	w: window.innerWidth * 0.95,
-	h: window.innerHeight * 0.92,
+	w: window.innerWidth,
+	h: window.innerHeight,
 	pipes: 0,
-	speed: 3,
-	gravity: 4,
+	speed: 2,
+	gravity: 3,
 	live: true
 };
 console.log(gameInfo);
